@@ -14,7 +14,7 @@ p {
   font-family: Arial;
 }
 div {
-  background-color: darkcyan;  /* UI Designer’s header style */
+  background-color: blue;  /* updated colour */
   text-align: right;
 }
 th, td {
