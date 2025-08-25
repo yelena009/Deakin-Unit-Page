@@ -13,10 +13,7 @@ p {
   font-size: 14px;
   font-family: Arial;
 }
-div {
-  background-color: blue;  /* updated colour */
-  text-align: right;
-}
+
 th, td {
   padding: 8px;
   text-align: left;
@@ -66,4 +63,3 @@ td {
   padding: 8px;
   border: 1px solid #444;
 }
-
